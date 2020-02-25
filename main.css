@@ -1,0 +1,55 @@
+/*
+Burhanuddin Lokhandwala
+Student Id - 991523243
+SYST-10199 - Web Programming
+*/
+/* 
+    Created on : 12-Apr-2019, 11:04:05 PM
+    Author     : Burhanuddin
+*/
+#wrapper
+{
+    width:100%;
+    margin:auto;
+    background-color:rgba(255,255,255,0.5);
+}
+body
+{
+    background-image: url("9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2
+{
+    font-size: 3em;
+    color:white;
+    border: 5px solid green;
+    background-color:rgba(144,20,147,0.5);
+}
+p
+{
+    font-size: 2em;
+    color:brown;
+    border: 5px solid yellow;
+}
+a
+{    
+    font-size: 2em;
+    color:white;
+}
+echo
+{
+    color:aqua;
+    font-size:2.5em;
+}
+table,th
+{
+    font-size: 1.5em;
+    color:white;
+}
+table,tr,td
+{
+    font-size: 1.25em;
+    color:white;
+    box-shadow: 2px 2px 3px black;
+}
